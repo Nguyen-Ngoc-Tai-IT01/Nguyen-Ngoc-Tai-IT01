@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="300" alt="Manchester United"/>
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/Manchester_United_FC_crest.svg/120px-Manchester_United_FC_crest.svg.png" width="300" alt="Manchester United"/>
 
 </div>
 
