@@ -1,35 +1,29 @@
-# Hi there 👋, mình là **Nguyễn Ngọc Tài**
+<div align="center">
 
-Chào mừng bạn đến với GitHub của mình!  
-Mình là một lập trình viên đam mê xây dựng những sản phẩm web thực tế, luôn thích học hỏi công nghệ mới và biến ý tưởng thành code chạy được.
+### Sinh viên Công nghệ thông tin · Yêu thích AI, Web Development & UI/UX
 
----
+<br>
 
-### ⚽ Về mình
+<img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" width="280" alt="Manchester United"/>
 
-- ⚽ Fan cứng của **Manchester United** – luôn theo dõi từng trận đấu và sống chết với The Red Devils
-- 🎮 Thích chơi game (đặc biệt là những game có cốt truyện hay và gameplay cuốn)
-- 🎬 Yêu thích xem **phim ngắn / short film** – những câu chuyện ngắn gọn nhưng cảm xúc mạnh
-- 💻 Đam mê lập trình web, luôn muốn tạo ra những sản phẩm đẹp mắt và có tính thực tiễn cao
+</div>
 
 ---
 
-### 🛠️ Tech Stack mình đang sử dụng
+### 🚀 Giới thiệu
 
-**Frontend**
-- HTML5, CSS3, JavaScript
-- React / Next.js
-- Tailwind CSS
+Xin chào! Mình là **Nguyễn Ngọc Tài**, một sinh viên đam mê phát triển phần mềm và công nghệ.  
+Mình đang học hỏi và phát triển kỹ năng về **Web Development**, **UI/UX Design** và các công nghệ hiện đại, với mục tiêu tạo ra những sản phẩm hữu ích, trực quan và mang đến trải nghiệm tốt cho người dùng.
 
-**Backend**
-- Node.js + Express
-- Python (Django)
-- Java
+Ngoài code, mình còn là fan cứng của **Manchester United** ⚽, thích chơi game và xem phim ngắn.
 
-**Database & Tools**
-- MongoDB, Firebase
-- EJS, TypeScript
-- Git & GitHub
+---
+
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,js,react,html,css,figma,git,github&theme=dark" />
+</p>
 
 ---
 
@@ -48,10 +42,12 @@ Mình là một lập trình viên đam mê xây dựng những sản phẩm web
 
 ---
 
-### 📈 Thống kê GitHub
+### 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nguyen-Ngoc-Tai-IT01&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nguyen-Ngoc-Tai-IT01&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nguyen-Ngoc-Tai-IT01&show_icons=true&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nguyen-Ngoc-Tai-IT01&layout=compact&theme=radical" height="160"/>
+</p>
 
 ---
 
@@ -63,6 +59,10 @@ Nếu bạn muốn trao đổi về code, bóng đá, game hay phim ngắn thì 
 
 ---
 
+<div align="center">
+
 *"Code is like football – you need practice, teamwork, and a little bit of passion to win."* ⚽💻
 
 **Thanks for visiting!** ✨
+
+</div>
