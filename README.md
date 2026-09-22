@@ -7,6 +7,7 @@
 
 <br>
 
+<!-- Tech Stack Badges -->
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -22,6 +23,7 @@
 
 <br>
 
+<!-- GitHub Streak & Stats -->
 <a href="https://github.com/Nguyen-Ngoc-Tai-IT01">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nguyen-Ngoc-Tai-IT01&theme=tokyonight&hide_border=true&background=0D1117&ring=DD7878&fire=DD7878&currStreakNum=E6E9EF" alt="GitHub Streak" />
 </a>
@@ -36,29 +38,6 @@
 </a>
 
 <br><br>
-
-### 🚀 Highlighted Projects
-
-</div>
-
-| Project | Stack | Description |
-| :--- | :---: | :--- |
-| **[algorithm-visualizer](https://github.com/Nguyen-Ngoc-Tai-IT01/algorithm-visualizer)** | `JavaScript` | Công cụ trực quan hóa các thuật toán giúp dễ hiểu hơn |
-| **[next-firebase-commerce](https://github.com/Nguyen-Ngoc-Tai-IT01/next-firebase-commerce)** | `Next.js` `TS` `Firebase` | Website thương mại điện tử với giao diện hiện đại |
-| **[Subscription-Tracker](https://github.com/Nguyen-Ngoc-Tai-IT01/Subscription-Tracker_Nodejs)** | `Node.js` `EJS` | Ứng dụng theo dõi và quản lý các gói đăng ký dịch vụ |
-| **[hr-payroll-management](https://github.com/Nguyen-Ngoc-Tai-IT01/hr-payroll-management-website)** | `JavaScript` | Hệ thống quản lý nhân sự và tính lương |
-| **[django-e-learning](https://github.com/Nguyen-Ngoc-Tai-IT01/Website-django-e-learning)** | `Django` `HTML` | Nền tảng học trực tuyến xây dựng bằng Django |
-
-<br>
-
-<div align="center">
-
-### ⚡ Beyond the Code
-
-Bên cạnh lập trình, mình luôn cân bằng cuộc sống bằng những đam mê khác:
-⚽ Fan cứng của **Manchester United** (Glory Glory Man United!) • 🎮 Thích các tựa game chiến thuật, FPS (như Delta Force) • 🎬 Yêu thích short films • 🛵 Đi dạo ngắm cảnh
-
-<br>
 
 ### 📫 Let's Connect
 
