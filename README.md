@@ -51,10 +51,6 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Nguyen-Ngoc-Tai-IT01&show_icons=true&hide_border=true&theme=transparent&title_color=60A5FA&text_color=94A3B8&icon_color=38BDF8" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nguyen-Ngoc-Tai-IT01&layout=compact&hide_border=true&theme=transparent&title_color=60A5FA&text_color=94A3B8" height="165"/>
-
 <br>
 
 <img src="https://streak-stats.demolab.com?user=Nguyen-Ngoc-Tai-IT01&hide_border=true&theme=transparent&ring=60A5FA&fire=38BDF8&currStreakLabel=60A5FA" />
