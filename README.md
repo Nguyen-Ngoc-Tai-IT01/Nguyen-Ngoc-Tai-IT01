@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,45:111827,100:1D4ED8&height=210&section=header&text=NGUY%E1%BB%84N%20NG%E1%BB%8CC%20T%C3%80I&fontSize=40&fontColor=FFFFFF&animation=fadeIn&fontAlignY=34&desc=IT%20STUDENT%20%7C%20FULL-STACK%20DEVELOPER%20%7C%20UI%2FUX&descAlignY=57&descSize=14" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,45:111827,100:1D4ED8&height=210&section=header&text=NGUY%E1%BB%82N%20NG%E1%BB%8CC%20T%C3%80I&fontSize=40&fontColor=FFFFFF&animation=fadeIn&fontAlignY=34&desc=IT%20STUDENT%20%7C%20FULL-STACK%20DEVELOPER%20%7C%20UI%2FUX&descAlignY=57&descSize=14" width="100%"/>
 
 <br>
 
 # Nguyễn Ngọc Tài
 
-### `Sinh viên Công nghệ thông tin` · `Full-Stack Developer` · `UI/UX`
+### `Information Technology Student` · `Full-Stack Developer` · `UI/UX`
 
 <p>
   <a href="https://github.com/Nguyen-Ngoc-Tai-IT01">
@@ -23,29 +23,7 @@
 
 ---
 
-## `01` — GIỚI THIỆU
-
-Xin chào! Mình là **Nguyễn Ngọc Tài**, sinh viên **Công nghệ thông tin tại Đại học Đông Á – IT24B**.
-
-Mình tập trung phát triển kỹ năng trong lĩnh vực **Web Development**, đặc biệt là **Full-Stack Development** và **UI/UX Design**.
-
-Mình yêu thích việc biến những ý tưởng thành các sản phẩm phần mềm thực tế, chú trọng cả **chất lượng code**, **kiến trúc ứng dụng** và **trải nghiệm người dùng**.
-
-```text
-IT Student
-    │
-    ├── Web Development
-    │      ├── Frontend
-    │      └── Backend
-    │
-    ├── Full-Stack Development
-    │
-    └── UI / UX Design
-```
-
----
-
-## `02` — TECH STACK
+## `01` — TECH STACK
 
 <div align="center">
 
@@ -69,7 +47,7 @@ IT Student
 
 ---
 
-## `03` — GITHUB
+## `02` — GITHUB
 
 <div align="center">
 
@@ -85,7 +63,7 @@ IT Student
 
 ---
 
-## `04` — LIÊN HỆ
+## `03` — CONNECT
 
 <div align="center">
 
@@ -97,14 +75,10 @@ IT Student
 <img src="https://img.shields.io/badge/GitHub-Nguyen--Ngoc--Tai--IT01-18181B?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</div>
-
-<br>
-
-<div align="center">
+<br><br>
 
 <sub>
-Nguyễn Ngọc Tài · Information Technology Student · Đông Á University
+Information Technology Student · Đông Á University
 </sub>
 
 </div>
