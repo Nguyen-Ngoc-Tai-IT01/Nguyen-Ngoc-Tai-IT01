@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,45:111827,100:1D4ED8&height=210&section=header&text=NGUY%E1%BB%82N%20NG%E1%BB%8CC%20T%C3%80I&fontSize=40&fontColor=FFFFFF&animation=fadeIn&fontAlignY=34&desc=IT%20STUDENT%20%7C%20FULL-STACK%20DEVELOPER%20%7C%20UI%2FUX&descAlignY=57&descSize=14" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,45:111827,100:1D4ED8&height=210&section=header&text=NGUY%E1%BB%84N%20NG%E1%BB%8CC%20T%C3%80I&fontSize=40&fontColor=FFFFFF&animation=fadeIn&fontAlignY=34&desc=IT%20STUDENT%20%7C%20FULL-STACK%20DEVELOPER%20%7C%20UI%2FUX&descAlignY=57&descSize=14" width="100%"/>
 <br>
 
 # Nguyễn Ngọc Tài
