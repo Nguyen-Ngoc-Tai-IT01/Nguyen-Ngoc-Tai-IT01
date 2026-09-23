@@ -25,7 +25,8 @@
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=typescript,react,nextjs,nodejs,python,java,spring,git&theme=dark" />
-<img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" width="48" height="48" alt="Microsoft SQL Server"/>
+<!-- Đã sửa lại đường dẫn ảnh SQL Server bên dưới -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48" height="48" alt="Microsoft SQL Server"/>
 
 <br><br>
 
